@@ -1,0 +1,408 @@
+2019-08-02 14:02:36 INFO  TestBase:38 - Initiate Browser
+2019-08-02 14:03:03 INFO  TestBase:44 - Browser Initiated
+2019-08-02 14:03:03 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 14:03:03 INFO  AddProject:25 - click manage project Button
+2019-08-02 14:03:03 INFO  AddProject:29 - click Add project Button
+2019-08-02 14:03:04 INFO  AddProject:33 - Add project display
+2019-08-02 14:03:04 INFO  TestBase:80 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 14:03:04 INFO  TestBase:73 - Closing Browser
+2019-08-02 14:03:06 INFO  TestBase:75 - Browser Closed
+2019-08-02 14:20:23 INFO  TestBase:38 - Initiate Browser
+2019-08-02 14:20:40 INFO  TestBase:44 - Browser Initiated
+2019-08-02 14:20:40 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 14:20:40 INFO  AddProject:25 - click manage project Button
+2019-08-02 14:20:41 INFO  AddProject:29 - click Add project Button
+2019-08-02 14:20:41 INFO  AddProject:33 - Add project display
+2019-08-02 14:20:41 INFO  AddProject:37 - set project id
+2019-08-02 14:20:41 INFO  AddProject:41 - set project name
+2019-08-02 14:20:42 INFO  AddProject:45 - set Type
+2019-08-02 14:20:42 INFO  AddProject:49 - set the start date
+2019-08-02 14:20:42 INFO  AddProject:54 - set the End date
+2019-08-02 14:20:43 INFO  AddProject:58 - set the duration
+2019-08-02 14:20:43 INFO  AddProject:63 - set the status
+2019-08-02 14:20:43 INFO  AddProject:67 - click ok button
+2019-08-02 14:20:43 INFO  TestBase:80 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 14:20:44 INFO  TestBase:73 - Closing Browser
+2019-08-02 14:20:45 INFO  TestBase:75 - Browser Closed
+2019-08-02 14:22:07 INFO  TestBase:38 - Initiate Browser
+2019-08-02 14:22:36 INFO  TestBase:44 - Browser Initiated
+2019-08-02 14:22:36 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 14:22:36 INFO  AddProject:25 - click manage project Button
+2019-08-02 14:22:37 INFO  AddProject:29 - click Add project Button
+2019-08-02 14:22:37 INFO  AddProject:33 - Add project display
+2019-08-02 14:22:37 INFO  AddProject:37 - set project id
+2019-08-02 14:22:37 INFO  AddProject:41 - set project name
+2019-08-02 14:22:38 INFO  AddProject:45 - set Type
+2019-08-02 14:22:38 INFO  AddProject:49 - set the start date
+2019-08-02 14:22:38 INFO  AddProject:54 - set the End date
+2019-08-02 14:22:38 INFO  AddProject:58 - set the duration
+2019-08-02 14:22:39 INFO  AddProject:63 - set the status
+2019-08-02 14:22:39 INFO  AddProject:67 - click ok button
+2019-08-02 14:22:39 INFO  TestBase:80 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 14:22:40 INFO  TestBase:73 - Closing Browser
+2019-08-02 14:22:40 INFO  TestBase:75 - Browser Closed
+2019-08-02 14:26:36 INFO  TestBase:38 - Initiate Browser
+2019-08-02 14:26:50 INFO  TestBase:44 - Browser Initiated
+2019-08-02 14:26:50 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 14:26:50 INFO  AddProject:25 - click manage project Button
+2019-08-02 14:26:50 INFO  AddProject:29 - click Add project Button
+2019-08-02 14:26:51 INFO  AddProject:33 - Add project display
+2019-08-02 14:26:51 INFO  AddProject:37 - set project id
+2019-08-02 14:26:51 INFO  AddProject:41 - set project name
+2019-08-02 14:26:52 INFO  AddProject:45 - set Type
+2019-08-02 14:26:52 INFO  AddProject:49 - set the start date
+2019-08-02 14:26:52 INFO  AddProject:54 - set the End date
+2019-08-02 14:26:52 INFO  AddProject:58 - set the duration
+2019-08-02 14:26:52 INFO  AddProject:63 - set the status
+2019-08-02 14:26:52 INFO  AddProject:67 - click ok button
+2019-08-02 14:26:53 INFO  TestBase:80 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 14:26:53 INFO  TestBase:73 - Closing Browser
+2019-08-02 14:26:53 INFO  TestBase:75 - Browser Closed
+2019-08-02 14:32:37 INFO  TestBase:38 - Initiate Browser
+2019-08-02 14:33:03 INFO  TestBase:44 - Browser Initiated
+2019-08-02 14:33:03 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 14:33:03 INFO  AddProject:25 - click manage project Button
+2019-08-02 14:33:03 INFO  AddProject:29 - click Add project Button
+2019-08-02 14:33:03 INFO  AddProject:33 - Add project display
+2019-08-02 14:33:03 INFO  AddProject:37 - set project id
+2019-08-02 14:33:04 INFO  AddProject:41 - set project name
+2019-08-02 14:33:04 INFO  AddProject:45 - set Type
+2019-08-02 14:33:04 INFO  AddProject:49 - set the start date
+2019-08-02 14:33:05 INFO  AddProject:54 - set the End date
+2019-08-02 14:33:05 INFO  AddProject:58 - set the duration
+2019-08-02 14:33:05 INFO  AddProject:63 - set the status
+2019-08-02 14:33:05 INFO  AddProject:67 - click ok button
+2019-08-02 14:33:05 INFO  TestBase:80 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 14:33:06 INFO  TestBase:73 - Closing Browser
+2019-08-02 14:33:06 INFO  TestBase:75 - Browser Closed
+2019-08-02 14:34:28 INFO  TestBase:38 - Initiate Browser
+2019-08-02 14:34:41 INFO  TestBase:44 - Browser Initiated
+2019-08-02 14:34:41 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 14:34:41 INFO  AddProject:25 - click manage project Button
+2019-08-02 14:34:42 INFO  AddProject:29 - click Add project Button
+2019-08-02 14:34:42 INFO  AddProject:33 - Add project display
+2019-08-02 14:34:43 INFO  AddProject:37 - set project id
+2019-08-02 14:34:43 INFO  AddProject:41 - set project name
+2019-08-02 14:34:43 INFO  AddProject:45 - set Type
+2019-08-02 14:34:44 INFO  AddProject:49 - set the start date
+2019-08-02 14:34:44 INFO  AddProject:54 - set the End date
+2019-08-02 14:34:44 INFO  AddProject:58 - set the duration
+2019-08-02 14:34:44 INFO  AddProject:63 - set the status
+2019-08-02 14:34:44 INFO  AddProject:67 - click ok button
+2019-08-02 14:34:44 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@6b1274d2] output={null}]
+2019-08-02 14:34:45 INFO  TestBase:73 - Closing Browser
+2019-08-02 14:34:46 INFO  TestBase:75 - Browser Closed
+2019-08-02 15:16:47 INFO  TestBase:38 - Initiate Browser
+2019-08-02 15:16:55 INFO  TestBase:44 - Browser Initiated
+2019-08-02 15:16:55 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 15:16:55 INFO  AddProject:25 - click manage project Button
+2019-08-02 15:16:56 INFO  AddProject:29 - click Add project Button
+2019-08-02 15:16:56 INFO  AddProject:33 - Add project display
+2019-08-02 15:16:56 INFO  AddProject:37 - set project id
+2019-08-02 15:16:56 INFO  AddProject:41 - set project name
+2019-08-02 15:16:57 INFO  AddProject:45 - set Type
+2019-08-02 15:16:57 INFO  AddProject:49 - set the start date
+2019-08-02 15:16:57 INFO  AddProject:54 - set the End date
+2019-08-02 15:16:57 INFO  AddProject:58 - set the duration
+2019-08-02 15:16:57 INFO  AddProject:63 - set the status
+2019-08-02 15:16:57 INFO  AddProject:67 - click ok button
+2019-08-02 15:16:57 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@551bdc27] output={null}]
+2019-08-02 15:16:58 INFO  TestBase:73 - Closing Browser
+2019-08-02 15:17:00 INFO  TestBase:75 - Browser Closed
+2019-08-02 15:25:25 INFO  TestBase:38 - Initiate Browser
+2019-08-02 15:25:34 INFO  TestBase:44 - Browser Initiated
+2019-08-02 15:25:34 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 15:25:34 INFO  AddProject:25 - click manage project Button
+2019-08-02 15:25:34 INFO  AddProject:29 - click Add project Button
+2019-08-02 15:25:35 INFO  AddProject:33 - Add project display
+2019-08-02 15:25:35 INFO  AddProject:37 - set project id
+2019-08-02 15:25:35 INFO  AddProject:41 - set project name
+2019-08-02 15:25:35 INFO  AddProject:45 - set Type
+2019-08-02 15:25:35 INFO  AddProject:49 - set the start date
+2019-08-02 15:25:36 INFO  AddProject:54 - set the End date
+2019-08-02 15:25:36 INFO  AddProject:58 - set the duration
+2019-08-02 15:25:36 INFO  AddProject:63 - set the status
+2019-08-02 15:25:36 INFO  AddProject:67 - click ok button
+2019-08-02 15:25:36 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 15:25:37 INFO  TestBase:73 - Closing Browser
+2019-08-02 15:25:38 INFO  TestBase:75 - Browser Closed
+2019-08-02 15:27:03 INFO  TestBase:38 - Initiate Browser
+2019-08-02 15:27:11 INFO  TestBase:44 - Browser Initiated
+2019-08-02 15:27:11 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 15:27:11 INFO  AddProject:25 - click manage project Button
+2019-08-02 15:27:11 INFO  AddProject:29 - click Add project Button
+2019-08-02 15:27:12 INFO  AddProject:33 - Add project display
+2019-08-02 15:27:12 INFO  AddProject:37 - set project id
+2019-08-02 15:27:12 INFO  AddProject:41 - set project name
+2019-08-02 15:27:13 INFO  AddProject:45 - set Type
+2019-08-02 15:27:13 INFO  AddProject:49 - set the start date
+2019-08-02 15:27:13 INFO  AddProject:54 - set the End date
+2019-08-02 15:27:13 INFO  AddProject:58 - set the duration
+2019-08-02 15:27:13 INFO  AddProject:63 - set the status
+2019-08-02 15:27:14 INFO  AddProject:67 - click ok button
+2019-08-02 15:27:14 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 15:27:15 INFO  TestBase:73 - Closing Browser
+2019-08-02 15:27:16 INFO  TestBase:75 - Browser Closed
+2019-08-02 15:48:23 INFO  TestBase:38 - Initiate Browser
+2019-08-02 15:48:31 INFO  TestBase:44 - Browser Initiated
+2019-08-02 15:48:31 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 15:48:32 INFO  AddProject:28 - click manage project Button
+2019-08-02 15:48:32 INFO  AddProject:32 - click Add project Button
+2019-08-02 15:48:32 INFO  AddProject:36 - Add project display
+2019-08-02 15:48:32 INFO  AddProject:40 - set project id
+2019-08-02 15:48:33 INFO  AddProject:44 - set project name
+2019-08-02 15:48:33 INFO  AddProject:48 - set Type
+2019-08-02 15:48:33 INFO  AddProject:52 - set the start date
+2019-08-02 15:48:34 INFO  AddProject:57 - input  the start date
+2019-08-02 15:48:35 INFO  AddProject:63 - set the End date
+2019-08-02 15:48:35 INFO  AddProject:67 - input the End date
+2019-08-02 15:48:35 INFO  AddProject:75 - set the duration
+2019-08-02 15:48:35 INFO  AddProject:80 - set the status
+2019-08-02 15:48:36 INFO  AddProject:84 - click ok button
+2019-08-02 15:48:36 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 15:48:36 INFO  TestBase:73 - Closing Browser
+2019-08-02 15:48:37 INFO  TestBase:75 - Browser Closed
+2019-08-02 15:49:32 INFO  TestBase:38 - Initiate Browser
+2019-08-02 15:49:43 INFO  TestBase:44 - Browser Initiated
+2019-08-02 15:49:43 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 15:49:43 INFO  AddProject:28 - click manage project Button
+2019-08-02 15:49:43 INFO  AddProject:32 - click Add project Button
+2019-08-02 15:49:43 INFO  AddProject:36 - Add project display
+2019-08-02 15:49:43 INFO  AddProject:40 - set project id
+2019-08-02 15:49:43 INFO  AddProject:44 - set project name
+2019-08-02 15:49:44 INFO  AddProject:48 - set Type
+2019-08-02 15:49:44 INFO  AddProject:52 - set the start date
+2019-08-02 15:49:45 INFO  AddProject:57 - input  the start date
+2019-08-02 15:49:45 INFO  AddProject:63 - set the End date
+2019-08-02 15:49:45 INFO  AddProject:67 - input the End date
+2019-08-02 15:49:46 INFO  AddProject:75 - set the duration
+2019-08-02 15:49:46 INFO  AddProject:80 - set the status
+2019-08-02 15:49:46 INFO  AddProject:84 - click ok button
+2019-08-02 15:49:46 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@551bdc27] output={null}]
+2019-08-02 15:49:46 INFO  TestBase:73 - Closing Browser
+2019-08-02 15:49:46 INFO  TestBase:75 - Browser Closed
+2019-08-02 15:54:41 INFO  TestBase:38 - Initiate Browser
+2019-08-02 15:54:58 INFO  TestBase:44 - Browser Initiated
+2019-08-02 15:54:58 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 15:54:58 INFO  AddProject:28 - click manage project Button
+2019-08-02 15:54:58 INFO  AddProject:32 - click Add project Button
+2019-08-02 15:54:58 INFO  AddProject:36 - Add project display
+2019-08-02 15:54:58 INFO  AddProject:40 - set project id
+2019-08-02 15:54:59 INFO  AddProject:44 - set project name
+2019-08-02 15:54:59 INFO  AddProject:48 - set Type
+2019-08-02 15:55:00 INFO  AddProject:52 - set the start date
+2019-08-02 15:55:01 INFO  AddProject:57 - input  the start date
+2019-08-02 15:55:01 INFO  AddProject:63 - set the End date
+2019-08-02 15:55:01 INFO  AddProject:67 - input the End date
+2019-08-02 15:55:02 INFO  AddProject:75 - set the duration
+2019-08-02 15:55:02 INFO  AddProject:80 - set the status
+2019-08-02 15:55:02 INFO  AddProject:84 - click ok button
+2019-08-02 15:55:02 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 15:55:02 INFO  TestBase:73 - Closing Browser
+2019-08-02 15:55:02 INFO  TestBase:75 - Browser Closed
+2019-08-02 16:07:24 INFO  TestBase:38 - Initiate Browser
+2019-08-02 16:07:51 INFO  TestBase:44 - Browser Initiated
+2019-08-02 16:07:51 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 16:07:51 INFO  AddProject:28 - click manage project Button
+2019-08-02 16:07:52 INFO  AddProject:32 - click Add project Button
+2019-08-02 16:07:52 INFO  AddProject:36 - Add project display
+2019-08-02 16:07:52 INFO  AddProject:40 - set project id
+2019-08-02 16:07:52 INFO  AddProject:44 - set project name
+2019-08-02 16:07:53 INFO  AddProject:48 - set Type
+2019-08-02 16:07:53 INFO  AddProject:52 - set the start date
+2019-08-02 16:07:54 INFO  AddProject:57 - input  the start date
+2019-08-02 16:07:54 INFO  AddProject:63 - set the End date
+2019-08-02 16:07:54 INFO  AddProject:67 - input the End date
+2019-08-02 16:07:54 INFO  AddProject:75 - set the duration
+2019-08-02 16:07:55 INFO  AddProject:80 - set the status
+2019-08-02 16:07:55 INFO  AddProject:84 - click ok button
+2019-08-02 16:07:55 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@551bdc27] output={null}]
+2019-08-02 16:07:55 INFO  TestBase:73 - Closing Browser
+2019-08-02 16:07:55 INFO  TestBase:75 - Browser Closed
+2019-08-02 16:16:30 INFO  TestBase:38 - Initiate Browser
+2019-08-02 16:17:33 INFO  TestBase:44 - Browser Initiated
+2019-08-02 16:17:33 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 16:17:33 INFO  AddProject:29 - click manage project Button
+2019-08-02 16:17:34 INFO  AddProject:33 - click Add project Button
+2019-08-02 16:17:34 INFO  AddProject:37 - Add project display
+2019-08-02 16:17:34 INFO  AddProject:41 - set project id
+2019-08-02 16:17:34 INFO  AddProject:45 - set project name
+2019-08-02 16:17:34 INFO  AddProject:49 - set Type
+2019-08-02 16:17:35 INFO  AddProject:53 - set the start date
+2019-08-02 16:17:35 INFO  AddProject:58 - input  the start date
+2019-08-02 16:17:36 INFO  AddProject:64 - set the End date
+2019-08-02 16:17:36 INFO  AddProject:68 - input the End date
+2019-08-02 16:17:36 INFO  AddProject:76 - set the duration
+2019-08-02 16:17:36 INFO  AddProject:81 - set the status
+2019-08-02 16:17:37 INFO  AddProject:85 - click ok button
+2019-08-02 16:17:37 INFO  AddProjectTest:40 - teaxt are equals
+2019-08-02 16:17:37 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 16:17:37 INFO  TestBase:73 - Closing Browser
+2019-08-02 16:17:37 INFO  TestBase:75 - Browser Closed
+2019-08-02 16:23:19 INFO  TestBase:38 - Initiate Browser
+2019-08-02 16:23:28 INFO  TestBase:44 - Browser Initiated
+2019-08-02 16:23:28 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 16:23:28 INFO  AddProject:29 - click manage project Button
+2019-08-02 16:23:28 INFO  AddProject:33 - click Add project Button
+2019-08-02 16:23:29 INFO  AddProject:37 - Add project display
+2019-08-02 16:23:29 INFO  AddProject:41 - set project id
+2019-08-02 16:23:29 INFO  AddProject:45 - set project name
+2019-08-02 16:23:29 INFO  AddProject:49 - set Type
+2019-08-02 16:23:30 INFO  AddProject:53 - set the start date
+2019-08-02 16:23:30 INFO  AddProject:58 - input  the start date
+2019-08-02 16:23:31 INFO  AddProject:64 - set the End date
+2019-08-02 16:23:31 INFO  AddProject:68 - input the End date
+2019-08-02 16:23:31 INFO  AddProject:76 - set the duration
+2019-08-02 16:23:31 INFO  AddProject:81 - set the status
+2019-08-02 16:23:31 INFO  AddProject:85 - click ok button
+2019-08-02 16:23:32 INFO  AddProjectTest:41 - teaxt are equals
+2019-08-02 16:23:32 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 16:23:32 INFO  TestBase:73 - Closing Browser
+2019-08-02 16:23:32 INFO  TestBase:75 - Browser Closed
+2019-08-02 16:27:42 INFO  TestBase:38 - Initiate Browser
+2019-08-02 16:27:51 INFO  TestBase:44 - Browser Initiated
+2019-08-02 16:27:51 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 16:27:51 INFO  AddProject:29 - click manage project Button
+2019-08-02 16:27:51 INFO  AddProject:33 - click Add project Button
+2019-08-02 16:27:52 INFO  AddProject:37 - Add project display
+2019-08-02 16:27:52 INFO  AddProject:41 - set project id
+2019-08-02 16:27:52 INFO  AddProject:45 - set project name
+2019-08-02 16:27:52 INFO  AddProject:49 - set Type
+2019-08-02 16:27:53 INFO  AddProject:53 - set the start date
+2019-08-02 16:27:53 INFO  AddProject:58 - input  the start date
+2019-08-02 16:27:53 INFO  AddProject:64 - set the End date
+2019-08-02 16:27:53 INFO  AddProject:68 - input the End date
+2019-08-02 16:27:54 INFO  AddProject:76 - set the duration
+2019-08-02 16:27:54 INFO  AddProject:81 - set the status
+2019-08-02 16:27:54 INFO  AddProject:85 - click ok button
+2019-08-02 16:27:54 INFO  AddProjectTest:41 - teaxt are equals
+2019-08-02 16:27:54 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 16:27:54 INFO  TestBase:73 - Closing Browser
+2019-08-02 16:27:54 INFO  TestBase:75 - Browser Closed
+2019-08-02 16:33:36 INFO  TestBase:38 - Initiate Browser
+2019-08-02 16:33:45 INFO  TestBase:44 - Browser Initiated
+2019-08-02 16:33:45 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 16:33:45 INFO  AddProject:29 - click manage project Button
+2019-08-02 16:33:45 INFO  AddProject:33 - click Add project Button
+2019-08-02 16:33:45 INFO  AddProject:37 - Add project display
+2019-08-02 16:33:45 INFO  AddProject:41 - set project id
+2019-08-02 16:33:45 INFO  AddProject:45 - set project name
+2019-08-02 16:33:46 INFO  AddProject:49 - set Type
+2019-08-02 16:33:46 INFO  AddProject:53 - set the start date
+2019-08-02 16:33:46 INFO  AddProject:58 - input  the start date
+2019-08-02 16:33:47 INFO  AddProject:64 - set the End date
+2019-08-02 16:33:47 INFO  AddProject:68 - input the End date
+2019-08-02 16:33:47 INFO  AddProject:76 - set the duration
+2019-08-02 16:33:47 INFO  AddProject:81 - set the status
+2019-08-02 16:33:48 INFO  AddProject:85 - click ok button
+2019-08-02 16:33:48 INFO  AddProjectTest:41 - teaxt are equals
+2019-08-02 16:33:48 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 16:33:48 INFO  TestBase:73 - Closing Browser
+2019-08-02 16:33:48 INFO  TestBase:75 - Browser Closed
+2019-08-02 16:44:14 INFO  TestBase:38 - Initiate Browser
+2019-08-02 16:44:23 INFO  TestBase:44 - Browser Initiated
+2019-08-02 16:44:23 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 16:44:23 INFO  AddProject:29 - click manage project Button
+2019-08-02 16:44:24 INFO  AddProject:33 - click Add project Button
+2019-08-02 16:44:24 INFO  AddProject:37 - Add project display
+2019-08-02 16:44:24 INFO  AddProject:41 - set project id
+2019-08-02 16:44:24 INFO  AddProject:45 - set project name
+2019-08-02 16:44:25 INFO  AddProject:49 - set Type
+2019-08-02 16:44:25 INFO  AddProject:53 - set the start date
+2019-08-02 16:44:25 INFO  AddProject:58 - input  the start date
+2019-08-02 16:44:26 INFO  AddProject:64 - set the End date
+2019-08-02 16:44:26 INFO  AddProject:68 - input the End date
+2019-08-02 16:44:26 INFO  AddProject:76 - set the duration
+2019-08-02 16:44:26 INFO  AddProject:81 - set the status
+2019-08-02 16:44:26 INFO  AddProject:85 - click ok button
+2019-08-02 16:44:27 INFO  AddProjectTest:41 - teaxt are equals
+2019-08-02 16:44:27 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 16:44:27 INFO  TestBase:73 - Closing Browser
+2019-08-02 16:44:27 INFO  TestBase:75 - Browser Closed
+2019-08-02 17:06:22 INFO  TestBase:38 - Initiate Browser
+2019-08-02 17:06:30 INFO  TestBase:44 - Browser Initiated
+2019-08-02 17:06:30 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 17:06:30 INFO  AddProject:29 - click manage project Button
+2019-08-02 17:06:31 INFO  AddProject:33 - click Add project Button
+2019-08-02 17:06:31 INFO  AddProject:37 - Add project display
+2019-08-02 17:06:31 INFO  AddProject:41 - set project id
+2019-08-02 17:06:31 INFO  AddProject:45 - set project name
+2019-08-02 17:06:32 INFO  AddProject:49 - set Type
+2019-08-02 17:06:32 INFO  AddProject:53 - set the start date
+2019-08-02 17:06:32 INFO  AddProject:58 - input  the start date
+2019-08-02 17:06:33 INFO  AddProject:64 - set the End date
+2019-08-02 17:06:33 INFO  AddProject:68 - input the End date
+2019-08-02 17:06:33 INFO  AddProject:76 - set the duration
+2019-08-02 17:06:33 INFO  AddProject:81 - set the status
+2019-08-02 17:06:34 INFO  AddProject:85 - click ok button
+2019-08-02 17:06:34 INFO  AddProjectTest:51 - teaxt are equals
+2019-08-02 17:06:34 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 17:06:34 INFO  TestBase:73 - Closing Browser
+2019-08-02 17:06:34 INFO  TestBase:75 - Browser Closed
+2019-08-02 17:07:18 INFO  TestBase:38 - Initiate Browser
+2019-08-02 17:07:27 INFO  TestBase:44 - Browser Initiated
+2019-08-02 17:07:27 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 17:07:27 INFO  AddProject:29 - click manage project Button
+2019-08-02 17:07:27 INFO  AddProject:33 - click Add project Button
+2019-08-02 17:07:27 INFO  AddProject:37 - Add project display
+2019-08-02 17:07:28 INFO  AddProject:41 - set project id
+2019-08-02 17:07:28 INFO  AddProject:45 - set project name
+2019-08-02 17:07:28 INFO  AddProject:49 - set Type
+2019-08-02 17:07:28 INFO  AddProject:53 - set the start date
+2019-08-02 17:07:29 INFO  AddProject:58 - input  the start date
+2019-08-02 17:07:29 INFO  AddProject:64 - set the End date
+2019-08-02 17:07:29 INFO  AddProject:68 - input the End date
+2019-08-02 17:07:29 INFO  AddProject:76 - set the duration
+2019-08-02 17:07:30 INFO  AddProject:81 - set the status
+2019-08-02 17:07:30 INFO  AddProject:85 - click ok button
+2019-08-02 17:07:30 INFO  AddProjectTest:51 - teaxt are equals
+2019-08-02 17:07:30 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 17:07:30 INFO  TestBase:73 - Closing Browser
+2019-08-02 17:07:30 INFO  TestBase:75 - Browser Closed
+2019-08-02 17:09:21 INFO  TestBase:38 - Initiate Browser
+2019-08-02 17:09:29 INFO  TestBase:44 - Browser Initiated
+2019-08-02 17:09:29 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 17:09:29 INFO  AddProject:29 - click manage project Button
+2019-08-02 17:09:30 INFO  AddProject:33 - click Add project Button
+2019-08-02 17:09:30 INFO  AddProject:37 - Add project display
+2019-08-02 17:09:30 INFO  AddProject:41 - set project id
+2019-08-02 17:09:30 INFO  AddProject:45 - set project name
+2019-08-02 17:09:31 INFO  AddProject:49 - set Type
+2019-08-02 17:09:31 INFO  AddProject:53 - set the start date
+2019-08-02 17:09:31 INFO  AddProject:58 - input  the start date
+2019-08-02 17:09:32 INFO  AddProject:64 - set the End date
+2019-08-02 17:09:32 INFO  AddProject:68 - input the End date
+2019-08-02 17:09:32 INFO  AddProject:76 - set the duration
+2019-08-02 17:09:32 INFO  AddProject:81 - set the status
+2019-08-02 17:09:32 INFO  AddProject:85 - click ok button
+2019-08-02 17:09:33 INFO  AddProjectTest:51 - teaxt are equals
+2019-08-02 17:09:33 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@70b0b186] output={null}]
+2019-08-02 17:09:33 INFO  TestBase:73 - Closing Browser
+2019-08-02 17:09:33 INFO  TestBase:75 - Browser Closed
+2019-08-02 17:25:24 INFO  TestBase:38 - Initiate Browser
+2019-08-02 17:25:33 INFO  TestBase:44 - Browser Initiated
+2019-08-02 17:25:33 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-02 17:25:33 INFO  AddProject:29 - click manage project Button
+2019-08-02 17:25:33 INFO  AddProject:33 - click Add project Button
+2019-08-02 17:25:34 INFO  AddProject:37 - Add project display
+2019-08-02 17:25:34 INFO  AddProject:41 - set project id
+2019-08-02 17:25:34 INFO  AddProject:45 - set project name
+2019-08-02 17:25:34 INFO  AddProject:49 - set Type
+2019-08-02 17:25:35 INFO  AddProject:53 - set the start date
+2019-08-02 17:25:35 INFO  AddProject:58 - input  the start date
+2019-08-02 17:25:35 INFO  AddProject:64 - set the End date
+2019-08-02 17:25:35 INFO  AddProject:68 - input the End date
+2019-08-02 17:25:36 INFO  AddProject:76 - set the duration
+2019-08-02 17:25:36 INFO  AddProject:81 - set the status
+2019-08-02 17:25:36 INFO  AddProject:85 - click ok button
+2019-08-02 17:25:36 INFO  AddProjectTest:51 - teaxt are equals
+2019-08-02 17:25:36 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=SUCCESS method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@551bdc27] output={null}]
+2019-08-02 17:25:36 INFO  TestBase:73 - Closing Browser
+2019-08-02 17:25:36 INFO  TestBase:75 - Browser Closed
+2019-08-03 17:00:44 INFO  TestBase:38 - Initiate Browser
+2019-08-03 17:01:11 INFO  TestBase:44 - Browser Initiated
+2019-08-03 17:01:11 INFO  TestBase:62 - Test name: AddProTestFirst
+2019-08-03 17:01:11 INFO  AddProject:29 - click manage project Button
+2019-08-03 17:01:11 INFO  TestBase:82 - Executed test case name:AddProTestFirst Execution Results: [TestResult name=AddProTestFirst status=FAILURE method=AddProjectTest.AddProTestFirst()[pri:1, instance:qa.Tests.AddProjectTest@551bdc27] output={null}]
+2019-08-03 17:01:11 INFO  TestBase:73 - Closing Browser
+2019-08-03 17:01:11 INFO  TestBase:75 - Browser Closed
